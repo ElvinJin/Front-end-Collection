@@ -6,6 +6,7 @@ This repository is a collection of the resources that I have read and thought is
 ## Sketch.app
 
 * [Short Cuts for Sketch.app](https://medium.com/design-ux/ebc9e5274845)
+* [iOS 7 GUI for iPhone](http://www.teehanlax.com/tools/iphone-sketch-app/)
 
 ---
 
