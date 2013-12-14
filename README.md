@@ -23,6 +23,7 @@ This repository is a collection of the resources that I have read and thought is
 * [iOS Design Guide](http://taybenlor.com/2013/05/21/designing-for-ios.html)
 * [The iOS 7 Design Cheat Sheet](http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/)
 * [Optimize a Webpage for iPhone](http://csswizardry.com/2010/01/iphone-css-tips-for-building-iphone-websites/)
+* [Localize iOS app](http://www.appcoda.com/ios-programming-tutorial-localization-apps/)
 
 ---
 
