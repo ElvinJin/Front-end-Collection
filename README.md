@@ -25,6 +25,7 @@ This repository is a collection of the resources that I have read and thought is
 * [Optimize a Webpage for iPhone](http://csswizardry.com/2010/01/iphone-css-tips-for-building-iphone-websites/)
 * [Localize iOS app](http://www.appcoda.com/ios-programming-tutorial-localization-apps/)
 * [Customizing Navigation Bar and Status Bar in iOS 7](http://www.appcoda.com/customize-navigation-status-bar-ios-7/)
+* [Using keychain to store password, access token](http://yuttana.me/2013/08/05/ios-tips-using-keychain-to-store-password-access-token-on-ios-app/)
 
 ---
 
